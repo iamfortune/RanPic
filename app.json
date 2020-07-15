@@ -1,0 +1,12 @@
+{
+  "name": "photoapp",
+  "displayName": "photoapp",
+  "expo": {
+    "name": "photoapp",
+    "slug": "photoapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
