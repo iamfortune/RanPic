@@ -3,10 +3,19 @@
   "displayName": "photoapp",
   "expo": {
     "name": "photoapp",
+    "icon": "./assets/icon.png",
     "slug": "photoapp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+     "ios": {
+       "bundleIdentifier": "com.kaycodev.photoapp",
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "package": "com.kaycodev.photoapp",
+       "versionCode": 1
+     }
   }
 }
